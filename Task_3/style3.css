@@ -1,0 +1,19 @@
+body{
+    color: rgb(9, 8, 9);
+    background-color: rgb(231, 201, 201);
+    font-style: normal;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+    background-color: rgb(248, 172, 197);
+    margin-top: 15%;
+    margin-left: 28%;
+    padding: 16px 16px;
+    margin-right: 25%;
+    margin-bottom: 50%;
+}
+
+  
+  

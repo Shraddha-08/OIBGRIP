@@ -1,0 +1,149 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+/*........... My Name.............*/
+.name{
+    
+    margin-left: 38%;
+    padding: 0;
+    width: 400px;
+    background-color: rgb(239, 217, 245);
+    
+}
+        
+body {
+        background-color:rgb(239, 217, 245);
+        object-fit:fill;
+        color:#080224;
+        }
+	
+	
+/*...........Navigation.............*/
+ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color: #f7c6f798;
+        overflow: hidden;
+        transition: top 0.3s;
+         
+       
+    } 
+
+/*...........Navigation Elements.............*/
+li{
+      display: inline;
+      float: left;
+      padding: 5px 69px; 
+      
+    }
+   
+/*...........Navigation Elements.............*/     
+li a {
+        display: block;
+        color: #000;
+        padding: 16px 16px;
+        text-decoration: none;
+        font-size: larger;
+        text-align: center;
+      }
+      
+      /* Change the link color on hover */
+li a:hover {
+        background-color: rgb(224, 110, 224);
+        color: white;
+      }
+
+    
+/*...........My image.............*/
+.myimg {
+        
+        margin-left: 800px;
+        
+        margin-top: -70px;
+      }
+
+/*...........My image.............*/
+img { 
+       height: 300px;
+       width: 300px;
+       border-radius: 50%;
+}
+        
+/*...........styles for Under Home intro para .............*/
+.content {
+        margin-left: -100px;
+        margin-top: -200px;
+        font-style: oblique;
+         
+      }
+
+/*........... All Pre tags.............*/
+pre{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        padding-top: -10%;
+        font-size: larger;
+}
+
+
+/*...........H1 tags.............*/
+h1{
+        padding-top: 5%;
+}
+
+
+/*...........Starting three lines of achivements section.............*/
+.c1{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        padding-top: 2%;
+        font-size: larger;
+        margin-left: 5%;
+}
+
+
+/*...........For all h2 tags.............*/
+h2{
+        font-size:larger;
+        color: rgb(22, 67, 113);
+        margin-left: 40px;
+        padding: 15px 15px;
+        font-style: inherit;
+}
+
+/*...........Certificates image.............*/
+.certs img{
+         height: 350px;
+         width: 350px;
+         margin-left: 5%;
+         border-radius: 50px;
+         margin-bottom: 10%;
+}
+
+/*...........Para about Certificates.............*/
+.para{
+          float:right;
+          margin-right: 290px;
+          margin-top: -400px;
+}
+
+/*...........Contact middle box.............*/
+.contact center{
+          background-color: rgb(247, 159, 235);
+          margin-left: 28%;
+          margin-right: 28%;
+          margin-top: 40px;
+          margin-bottom: 10%;
+}
+
+/*...........Smile image.............*/
+img{
+         height: 250px;
+         width: 250px;
+         margin-left: 40%;
+  
+ 
+}
